@@ -1,2 +1,5 @@
 # Todo-List
- Todo list with local storage
+
+Todo list with saved in your local storage
+
+![todo app review](./todo.png)
